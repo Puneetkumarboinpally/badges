@@ -4,5 +4,5 @@
 # badges badges badges badgessss badges
 >>>>>>> Stashed changes
 badges badgessss no badges
->>>>>>> big badges
+>>>>>>> big badges small badges
 >>>>>>> 
